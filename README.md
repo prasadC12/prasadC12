@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Chuadhari</h1>
 <h3 align="center">A passionate Full Stack Java developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/07/97/86/0797867a766ed70a3d1a50530e9aa32e.gif"
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/07/97/86/0797867a766ed70a3d1a50530e9aa32e.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadc12&label=Profile%20views&color=0e75b6&style=flat" alt="prasadc12" /> </p>
 
